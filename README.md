@@ -1,4 +1,4 @@
 ips
 ===
 
-Create &amp; apply IPS patches
+Create & apply IPS patches
